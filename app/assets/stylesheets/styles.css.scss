@@ -1,0 +1,27 @@
+$baseFontFamily: Muli;
+@import url(http://fonts.googleapis.com/css?family=Muli);
+
+
+
+
+$navbarBackgroundHighlight:#6cd;
+$navbarBackground:#079;
+
+$navbarLinkColor:#bef;
+$navbarLinkColorHover:white;
+
+@import 'bootstrap'; 
+
+body			{padding-top:80px;}
+
+@import 'bootstrap-responsive'; 
+
+/*
+.navbar-inner	{@include box-shadow(none !important);
+				 border:0;}
+*/
+
+.footer			{margin-top:100px;
+				 color:$grayLight;}
+	
+.footer a		{color:$gray}

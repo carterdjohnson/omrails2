@@ -1,0 +1,10 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+
+a:link				{font-weight:bold; color:#000000; text-decoration:none;}
+a:visited			{font-weight:bold; color:#222222; text-decoration:none;}
+a:active			{font-weight:bold; text-decoration:underline;}
+a:hover				{font-weight:bold; text-decoration:underline;}
